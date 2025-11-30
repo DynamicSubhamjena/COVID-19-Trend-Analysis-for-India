@@ -81,8 +81,7 @@ Healthcare infrastructure plays a major role in reducing death and risk.
 COVID-Analysis/
 │── covid_analysis.ipynb
 │── dataset.csv
-│── README.md
-│── images/
+│── README.md/
 
 ---
 
