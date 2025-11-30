@@ -101,7 +101,7 @@ Subham Jena
 
 ## 📫 Contact
 GitHub: [https://github.com/DynamicSubhamjena](https://github.com/DynamicSubhamjena)
-LinkedIn: [linkedin.com/in/subham-jena-ba63132a2](linkedin.com/in/subham-jena-ba63132a2)
+LinkedIn: [https://www.linkedin.com/in/subham-jena-ba63132a2/](linkedin.com/in/subham-jena-ba63132a2)
 Email: [jenasubham790@gmail.com](jenasubham790@gmail.com)
 
 
