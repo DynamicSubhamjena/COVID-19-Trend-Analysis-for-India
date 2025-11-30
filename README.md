@@ -100,7 +100,7 @@ COVID-Analysis/
 Subham Jena
 
 ## 📫 Contact
-GitHub: https://github.com/DynamicSubhamjena
-LinkedIn: linkedin.com/in/subham-jena-ba63132a2
-Email: jenasubham790@gmail.com
+[GitHub]: https://github.com/DynamicSubhamjena
+[LinkedIn]: linkedin.com/in/subham-jena-ba63132a2
+[Email]: jenasubham790@gmail.com
 
