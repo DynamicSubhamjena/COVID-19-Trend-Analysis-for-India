@@ -42,8 +42,8 @@ rural_Hospital, urban_Hospital, total_Beds, number
 
 ## 📊 Visualizations & Analysis
 
-### ✔ Top 10 states by COVID confirmed cases  
-### ✔ Top 10 states by deaths  
+### ✔ State-wise analysis of all 30 states based on COVID confirmed cases
+### ✔ Comparison of deaths across all 30 states
 ### ✔ Total hospitals per state  
 ### ✔ Rural vs urban beds comparison  
 ### ✔ Correlation heatmap  
@@ -101,7 +101,7 @@ Subham Jena
 
 ## 📫 Contact
 GitHub: [https://github.com/DynamicSubhamjena](https://github.com/DynamicSubhamjena)
-LinkedIn: [https://www.linkedin.com/in/subham-jena-ba63132a2/](linkedin.com/in/subham-jena-ba63132a2)
+LinkedIn: [linkedin.com/in/subham-jena-ba63132a2/](linkedin.com/in/subham-jena-ba63132a2/)
 Email: [jenasubham790@gmail.com](jenasubham790@gmail.com)
 
 
